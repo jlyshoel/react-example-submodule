@@ -8,7 +8,7 @@ function AppLink() {
       target="_blank"
       rel="noopener noreferrer"
     >
-      Learn more about submodules
+      Read more about submodules
     </a>
   );
 }
